@@ -3,3 +3,4 @@ Repositorio creado para el proyecto destinado a la asignatura de Introducción a
 
 Se usan Métodos matriciales para verificar existencia de niveles de Landau en topologías no equivalentes a la del subespacio usual en un cuadrado plano [0,a]x[0,a], en particular las del cilindro, cinta de Möbius y un toroide vistas como topologías cociente.
 
+Link de Colab: https://colab.research.google.com/drive/1kprOj2Tn1_fwszajckR6X6PKyRngdKSx?usp=sharing
